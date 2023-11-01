@@ -560,17 +560,17 @@ section {
 .about .call-us {
     left: 10%;
     right: 10%;
-    bottom: 10%;
+    bottom: 25%;
     background-color: #fff;
     box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
-    padding: 20px;
+    padding: 5px;
     text-align: center;
 }
 
 .about .call-us h4 {
     font-size: 24px;
     font-weight: 700;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     font-family: var(--font-default);
 }
 
